@@ -1,8 +1,8 @@
 # Images
 
-![Image description](Module 7 Screenshot 1.png)
+![Image 1](Images/Module 7 Screenshot 1.png)
 
-![Image description](Module 7 Screenshot 2.png)
+![Image 2](Images/Module 7 Screenshot 2.png)
 
 # ETF Performance Analysis
 
